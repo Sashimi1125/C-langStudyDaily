@@ -7,7 +7,9 @@ int main() {
   if (lkMoney >= 100) {
     printf("走大家一起吃饭");
   }
-  printf("走咯回家啦");*/
+  printf("走咯回家啦");
+  {} 花括号执行完成 内存自动释放 形成作用域
+  */
   int chinese = 0;
   int maths = 0;
   int english = 0;
